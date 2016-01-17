@@ -1,4 +1,4 @@
-*Perl*
+_Perl_
 
 Perl is a high-level, loosely-typed programming that is meant to be general-purpose. It is an interpreted
 language (not compiled), and does not use a virtual machine. It is often referred to as a scripting
@@ -9,13 +9,14 @@ There are currently two concurrent (but different) versions of Perl available: P
 by most to be "mainstream" Perl, and Perl 6, which started as a redesign of Perl 5 but has since
 become, essentially, a completely separate language. Perl 6 is still being developed.
 
-*History*
+_History_
 
 Perl was created by Larry Wall in the 1980's because the tools available at the time (sed, awk, grep,
 etc.) were incapable of easily doing what he wanted them to. Rather than spend a lot of time forcing those 
 language to do what he wanted, he wrote his own programming language instead.
 
-*Usage*
+_Usage_
+
 According to "Learning Perl: 6th edition", Perl is best for projects that are "about 90% working with
 text and about 10% something else." 
 
@@ -32,7 +33,7 @@ documentation: http://www.perl.org/docs.html, and other resources in the Perl co
 http://www.perl.org/community.html. I will probably also use StackOverflow.com if I get stuck, but I
 will use that with caution as sometimes the answers are completely wrong.
 
-*Sources*
+_Sources_
 
 Perl.org http://www.perl.org/about.html Accessed Jan. 13, 2013.
 Perl6.org http://perl6.org/ Accessed Jan. 13, 2013.
