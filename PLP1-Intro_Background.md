@@ -36,7 +36,11 @@ will use that with caution as sometimes the answers are completely wrong.
 # Sources
 
 Perl.org http://www.perl.org/about.html Accessed Jan. 13, 2013.
+
 Perl6.org http://perl6.org/ Accessed Jan. 13, 2013.
+
 Randal L. Schwartz, brian d foy and Tom Phoenix. "Learning Perl: 6th edition" O'Reilly Media, 2011.
+
 Wikipedia.org http://en.wikipedia.org/wiki/Perl Accessed Jan. 14, 2013.
+
 Github.com https://github.com/search?q=Perl&ref=cmdform Accessed Jan 17, 2016.
