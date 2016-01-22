@@ -21,9 +21,9 @@ highlighting, such as TextPad, NotePad++, or Kate (for Linux). If you choose to 
 it in a text editor, then you will need to use the command line to find and run your programs. From the
 command line, you run your program like this:
 
-'''
+```
 perl <myprogram>.pl
-'''
+```
 
 If this line give you a message that “perl is not a recognized command” or something similar, then you
 have to make sure that Perl is installed and added to your PATH environment variable. Most systems
@@ -38,18 +38,18 @@ Padre has syntax highlighting, debugging, and autocomplete abilities.
 Perl does not have a lot of boilerplate, though it is traditional to start each Perl script with the “sh-bang”
 line:
 
-'''
+```
 #!perl
-'''
+```
 
 On some systems, this line includes the address of the Perl installation, so that it can be run more
 efficiently, though this is not required on most modern systems. The # symbol is used to start
 comments in Perl.To write “Hello, World!”, the entire program looks like this:
 
-'''
+```
 #!perl
 print “Hello, World!”;
-'''
+```
 
 This is simply the aforementioned sh-bang line, followed by a line that called the print command, the
 string “Hello, World” denoted by quotes, and a semi-colon which ends the line.
