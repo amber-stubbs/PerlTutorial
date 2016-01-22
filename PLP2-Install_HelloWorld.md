@@ -63,6 +63,16 @@ print “Hello, World!”;
 This is simply the aforementioned sh-bang line, followed by a line that called the print command, the
 string “Hello, World” denoted by quotes, and a semi-colon which ends the line.
 
+# Comments
+
+Comments in Perl are designated like so:
+
+```
+# This is a comment!
+```
+
+
+
 #Sources
 
 http://padre.perlide.org/, Accessed Jan. 21, 2016
