@@ -21,7 +21,7 @@ The main difference between Strawberry and Active Perl is how each one finds and
 other add-ons.  I would probably install Strawberry perl on Windows, but I don't have a strong preference; you can see the discussion here for more information, and install whichever you like: http://stackoverflow.com/questions/3365518/should-i-choose-activeperl-or-strawberry-perl-for-windows.  
 
 If you are on Windows and install Perl by downloading it from https://www.perl.org/get.html, you may have to edit your 
-PATH variable before you can use Perl from the command line.  See here for instructions: http://www.computerhope.com/issues/ch000549.htm
+PATH variable before you can use Perl from the command line.  You will need to find where Perl is installed, and add that location to the end of your PATH (DO NOT DELETE THE REST OF THE PATH).  See here for instructions: http://www.computerhope.com/issues/ch000549.htm
 
 If you don't want to run Perl from the command line or don't want to edit your PATH, you also have the option of installed the Perl  Intergrated Development Environment (IDE), which is available for all operating systems.  The IDE is called Padre, and it is available from http://padre.perlide.org/.  Padre includes its own Strawberry Perl installation, so you will not need to worry about the PATH or the command line.  However, if you go this route then Padre is the only way you will be able to run Perl.  Padre has syntax highlighting, debugging, and autocomplete abilities.
 
